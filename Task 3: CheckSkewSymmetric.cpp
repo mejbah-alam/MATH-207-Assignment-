@@ -20,6 +20,14 @@ int main()
     {
         for (col = 0; col < n; col++)
         {
+            if (row == col)
+            {
+                if (mat[row][col] != 0)
+                {
+                    isSkewSymmetric = 0;
+                    break;
+                }
+            }
             if (row > col)
             {
                 if (mat[row][col] != -mat[col][row])
