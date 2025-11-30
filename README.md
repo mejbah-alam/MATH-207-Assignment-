@@ -1,11 +1,11 @@
 # MATH-207-Assignment-
 
-A beginner-friendly repository containing basic matrix operations implemented in modern C++
+##A beginner-friendly repository containing basic matrix operations implemented in modern C++
 
-This repository contains simple, well-commented C++ programs for common matrix operations. It is perfect for students learning linear algebra, data structures, or anyone who wants clean reference implementations.
+##This repository contains simple, well-commented C++ programs for common matrix operations. It is perfect for students learning linear algebra, data structures, or anyone who wants clean reference implementations.
 
 
-Task 1A - Transpose.cpp             Transpose of a matrix using same matrix (in-place style)
+#Task 1A - Transpose.cpp             Transpose of a matrix using same matrix (in-place style)
 A simple C++ program that takes a matrix as input from the user and computes its **transpose**.
 
 The transpose of a matrix is obtained by swapping its rows with columns.  
@@ -39,7 +39,7 @@ B:
 
 
 
-Task 1B - Transpose.cpp             Transpose of a matrix using a separate result matrix
+#Task 1B - Transpose.cpp             Transpose of a matrix using a separate result matrix
 A lightweight and efficient C++ program that computes the **transpose of a square matrix in-place** (without using extra space).
 
 Perfect for learning matrix operations and understanding how to transpose a matrix by swapping elements along the main diagonal.
@@ -80,7 +80,7 @@ B:
 
 
 
-Task 2  - CheckSymmetric.cpp        Check if a square matrix is symmetric (A = Aᵀ)
+#Task 2  - CheckSymmetric.cpp        Check if a square matrix is symmetric (A = Aᵀ)
 A simple and efficient C++ program that checks whether a given square matrix is **symmetric**.
 
 A matrix is symmetric if it is equal to its transpose  
@@ -108,7 +108,7 @@ The Matrix is Symmetric
 
 
 
-Task 3  - CheckSkewSymmetric.cpp    Check if a square matrix is skew-symmetric (A = -Aᵀ)
+#Task 3  - CheckSkewSymmetric.cpp    Check if a square matrix is skew-symmetric (A = -Aᵀ)
 A simple and efficient C++ program to check whether a given square matrix is **Skew-Symmetric** (also called anti-symmetric).
 
 ### Definition
@@ -139,7 +139,7 @@ The Matrix is Skew-Symmetric
 
 
 
-Task 4  - AdditionSubtraction.cpp   Matrix addition and subtraction
+#Task 4  - AdditionSubtraction.cpp   Matrix addition and subtraction
 A clean and educational C++ program that performs **addition** and **subtraction** of two matrices of the **same size**.
 
 Perfect for students learning basic matrix operations!
@@ -187,7 +187,7 @@ Subtraction of 1st & 2nd Matrix:
 
 
 
-Task 5  - Multiplication.cpp        Classic matrix multiplication
+#Task 5  - Multiplication.cpp        Classic matrix multiplication
 A clean, efficient, and educational C++ program that performs **matrix multiplication** of two compatible matrices.
 
 Perfect for students, beginners, and anyone learning linear algebra through code!
